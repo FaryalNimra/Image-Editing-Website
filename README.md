@@ -1,4 +1,4 @@
-# Image-Editing-Website
+# 🌟 Image-Editing-Website 🌟
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -12,35 +12,29 @@
 
 ---
 
-## Introduction
+## 📸 Introduction
 
-Welcome to the Image Filtering Application! This application provides a user-friendly interface for applying various image filters to your photos. It allows you to enhance your images using different filtering techniques such as smoothing, sharpening, edge detection, noise reduction, and more.
+Welcome to the Image Filtering Application! This application provides a user-friendly interface for applying various image filters to your photos. It allows you to enhance your images using different filtering techniques such as smoothing, sharpening, edge detection, noise reduction, and more. ✨
 
-## Installation
+## 🛠️ Installation
 
 1. Ensure you have Python installed on your system.
 2. Install the required libraries using pip:
-   ```
-   pip install tkinter pillow opencv-python numpy
-   ```
 3. Clone the repository or download the source code.
 
-## Usage
+## 💻 Usage
 
 1. Run the main script to start the application:
-   ```
-   python main.py
-   ```
 2. The application window will open, displaying the main page with navigation options and filtering tools.
 
-## Features
+## ✨ Features
 
 - **Open Image:** Load an image from your local directory.
 - **Apply Filter:** Choose from a variety of filters to apply to your image.
 - **Undo Filter:** Revert to the original image before applying filters.
 - **Save Image:** Save the filtered image to your local directory.
 
-## Available Filters
+## 🎨 Available Filters
 
 ### Smoothing Filters
 1. **Gaussian filter**
@@ -84,21 +78,22 @@ Welcome to the Image Filtering Application! This application provides a user-fri
 5. **Emboss**
 6. **Sepia**
 
-## Navigation
+## 🧭 Navigation
 
 - **Home:** Main page with navigation options.
 - **About:** Information about the application.
 - **Filters:** Detailed description of available filters.
 - **Contact:** Contact information for support or feedback.
 
-## Saving Images
+## 💾 Saving Images
 
 1. Apply the desired filters to your image.
 2. Click on the "Save" button.
 3. Choose the location and file format (PNG or JPEG) to save your image.
 
-## Tools & Languages
-This application was developed using Python and various libraries such as Tkinter ,OpenCv and numpy etc.
+## 🛠️ Tools & Languages
+
+This application was developed using Python and various libraries such as Tkinter, OpenCV, and NumPy.
+
 ---
-"For any issues or suggestions, please contact me via LinkedIn. Happy filtering!"
-For any issues or suggestions, please contact me via [LinkedIn](https://www.linkedin.com/in/faryal-nimra-4a49a32b6). Happy filtering!
+For any issues or suggestions, please contact me via [LinkedIn](https://www.linkedin.com/in/faryal-nimra-4a49a32b6). Happy filtering! 😊✨
